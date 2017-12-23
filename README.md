@@ -8,7 +8,7 @@ Overview of projects:
 
 Rubik's Cube Simulator and Solver (Exploring search based methods vs machine learning approach (for Part II project))
 
-Real-time Traffic 'Mapper' for Cambridge (For Part 1B Group Project)
+Real-time Traffic 'Mapper' for Cambridge (For Part 1B Group Project) 
 
 Game of Life Simulator (For Part 1A/B Coursework)
 
@@ -18,6 +18,6 @@ Ray Tracer (For Part 1B Coursework)
 
 Sports Results Tracker and Analysis Tool (Personal)
 
-Mandelbrot Simulator (Personal)
+Mandelbrot Simulator (Personal) [not yet on github]
 
-2048 game adaptation (Personal)
+2048 game adaptation (Personal) [not yet on github]
